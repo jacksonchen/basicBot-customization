@@ -67,7 +67,7 @@
         maximumCycletime: 10,
         timeGuard: true,
         maximumSongLength: 15,
-        autodisable: true,
+        autodisable: false,
         commandCooldown: 10,
         usercommandsEnabled: true,
         lockskipPosition: 3,
