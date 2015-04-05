@@ -1,0 +1,41 @@
+{
+    "author": "Jackson Chen",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "font": [],
+        "import": [],
+        "rule": {}
+    },
+    "images": {
+        "background": "http://upload.wikimedia.org/wikipedia/en/b/bb/Fairview_High_School_front2.jpg",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "playback": ""
+    },
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
+}
